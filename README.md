@@ -1,3 +1,7 @@
+### Hi there, I'm Fardin - [fardin][website] 👋
+
+[![Website]](http://fardinahsan.me)
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
