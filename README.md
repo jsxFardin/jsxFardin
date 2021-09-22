@@ -1,6 +1,6 @@
-### Hi there, I'm Fardin - [fardin][website] 👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website]](http://fardinahsan.me)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://fardinahsan.me)
 
 <table cellpadding="0">
   <tr style="padding: 0">
