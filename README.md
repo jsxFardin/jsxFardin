@@ -1,13 +1,6 @@
 ### Hi there, I'm Fardin Ahsan - [Portfolio](http://fardinahsan.me)
 
 
-### Connect with me:
-[<img align="left" alt="jsxfardin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](http://fardinahsan.me)
-[<img align="left" alt="jsxfardin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](http://fardinahsan.me)
-[<img align="left" alt="jsxfardin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](http://fardinahsan.me)
-
-<br />
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
