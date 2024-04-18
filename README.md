@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer || PHP || JS || Laravel || Vue
 ---------------------------------------------------
 
-Software Developer with 4+ years of professional experience in designing and developing user interfaces, testing, debugging, and training staff within web technologies. Proven ability in optimizing web functionality that improves data retrieval and workflow efficiencies.
+Software Developer with 5+ years of professional experience in designing and developing user interfaces, testing, debugging, and training staff within web technologies. Proven ability in optimizing web functionality that improves data retrieval and workflow efficiencies.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [jsxfardin.github.io](http://jsxfardin.github.io)
