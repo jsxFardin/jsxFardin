@@ -19,13 +19,13 @@ Open to remote full-time, contract and fractional roles. Overlaps US East mornin
 
 ## Selected work
 
-| Project | Role | Summary | Stack |
-|---|---|---|---|
-| [Agilibo](https://www.agilibo.info) | Senior Software Engineer, Kaz Software | Agile SaaS with two-way Jira and Azure DevOps sync, multi-company tenancy and AI sprint insights | Vue.js, Laravel, Node.js, Redis, Elasticsearch, OpenAI API |
-| [Alternative Learning Programme](https://alprtm.com/) | Full Stack Engineer, UNICEF Bangladesh | Enrollment, progress tracking and analytics for out-of-school youth across districts | Vue.js, Laravel, Google Maps API, multi-language |
-| [Prospeneo](https://www.prospeneo.com/) | Full Stack Engineer | Real estate platform with AI lead generation, funnel CRM, website builder and multi-currency payments | Vue.js, Laravel, AI integration, payment gateways |
-| [Robishop](https://robishop.com.bd) | Full Stack Engineer, Robi Axiata | Nationwide e-commerce PWA with catalog, payments, delivery tracking, returns and loyalty |  |
-| [Sendparcel](https://www.sendparcel.com/) | Full Stack Engineer | DHL, FedEx, TNT and GLS integrations across 220+ countries with live rates, booking and tracking |  |
+| Project | Role | Summary |
+|---|---|---|
+| [Agilibo](https://www.agilibo.info) | Senior Software Engineer, Kaz Software | Agile SaaS with two-way Jira and Azure DevOps sync, multi-company tenancy and AI sprint insights |
+| [Alternative Learning Programme](https://alprtm.com/) | Full Stack Engineer, UNICEF Bangladesh | Enrollment, progress tracking and analytics for out-of-school youth across districts |
+| [Prospeneo](https://www.prospeneo.com/) | Full Stack Engineer | Real estate platform with AI lead generation, funnel CRM, website builder and multi-currency payments |
+| [Robishop](https://robishop.com.bd) | Full Stack Engineer, Robi Axiata | Nationwide e-commerce PWA with catalog, payments, delivery tracking, returns and loyalty |
+| [Sendparcel](https://www.sendparcel.com/) | Full Stack Engineer | DHL, FedEx, TNT and GLS integrations across 220+ countries with live rates, booking and tracking |
 
 ## Experience
 
