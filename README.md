@@ -41,7 +41,6 @@ Open to remote full-time, contract and fractional roles. Overlaps US East mornin
 - [AI-chat-agent](https://github.com/jsxFardin/AI-chat-agent): LLM chat agent in TypeScript
 - [mind-bot](https://github.com/jsxFardin/mind-bot): WhatsApp marketing campaign planner
 - [react-node-pgsql-template](https://github.com/jsxFardin/react-node-pgsql-template): React, Node.js and PostgreSQL starter
-- [fardin-portfolio](https://github.com/jsxFardin/fardin-portfolio): source of this portfolio site, Next.js
 
 ## Contact
 
